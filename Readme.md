@@ -17,7 +17,6 @@
 
 ### [Silver🥈](https://github.com/favorcat/BOJ/tree/master/Silver)
  - [Silver V](https://github.com/favorcat/BOJ/tree/master/Silver/Silver%20V)
- - [Silver III](https://github.com/favorcat/BOJ/tree/master/Silver/Silver%20III)
  - [Silver II](https://github.com/favorcat/BOJ/tree/master/Silver/Silver%20II)
 
 ### [Unranked](https://github.com/favorcat/BOJ/tree/master/Unranked)
