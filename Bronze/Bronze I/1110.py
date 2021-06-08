@@ -1,12 +1,18 @@
 n = int(input())
 count = 0
+
 k = n
 while True:
-    a = k // 10
-    b = k % 10
-    new = (10*b + (a+b)) % 10
-    k = 10*b+new
-    count += 1
     if k < 10:
-        break
+        a = 0
+        b = k
+    else:
+        a = k // 10
+        b = k % 10
+    c = a + b
+    if c < 10:
+        k = b * 10 + c
+    else: k = b * 10 + c % 10
+    count += 1
+    if k == n: break
 print(count)
