@@ -22,4 +22,7 @@
  - [Silver III](https://github.com/favorcat/BOJ/tree/master/Silver/Silver%20III)
  - [Silver II](https://github.com/favorcat/BOJ/tree/master/Silver/Silver%20II)
 
+### [Gold🥇](https://github.com/favorcat/BOJ/tree/master/Gold)
+ - [Gold V](https://github.com/favorcat/BOJ/tree/master/Gold/Gold%20V)
+
 ### [Unranked](https://github.com/favorcat/BOJ/tree/master/Unranked)
