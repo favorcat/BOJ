@@ -24,5 +24,6 @@
 
 ### [Gold🥇](https://github.com/favorcat/BOJ/tree/master/Gold)
  - [Gold V](https://github.com/favorcat/BOJ/tree/master/Gold/Gold%20V)
+ - [Gold IV](https://github.com/favorcat/BOJ/tree/master/Gold/Gold%20IV)
 
 ### [Unranked](https://github.com/favorcat/BOJ/tree/master/Unranked)
