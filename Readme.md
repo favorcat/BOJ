@@ -2,8 +2,7 @@
 
 > 2019.07.26 백준 알고리즘 문제 풀기 시작
 
-[BOJ 프로필](https://www.acmicpc.net/user/favorcat)    
-[solved.ac 프로필](https://solved.ac/profile/favorcat)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=favorcat)](https://solved.ac/favorcat)
 
 ---
 ### [Now Solving](https://github.com/favorcat/BOJ/tree/master/Now%20Solving)
