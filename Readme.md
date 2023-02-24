@@ -5,9 +5,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=favorcat)](https://solved.ac/favorcat)
 
 ---
-### [Now Solving](https://github.com/favorcat/BOJ/tree/master/Now%20Solving)
-
----
 ### [Bronze🥉](https://github.com/favorcat/BOJ/tree/master/Bronze)
  - [Bronze V](https://github.com/favorcat/BOJ/tree/master/Bronze/Bronze%20V)
  - [Bronze IV](https://github.com/favorcat/BOJ/tree/master/Bronze/Bronze%20IV)
