@@ -6,3 +6,5 @@
 *.class
 /src
 /Now Solving
+/output
+test.cpp
